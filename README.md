@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=alhadad-xyz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -75,12 +75,12 @@ const softwareEngineer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alhadad-xyz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhadad-xyz&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alhadad-xyz&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -88,7 +88,7 @@ const softwareEngineer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alhadad-xyz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 ---
@@ -96,7 +96,7 @@ const softwareEngineer = {
 ## 🔥 Recent Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alhadad-xyz&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -115,7 +115,7 @@ const softwareEngineer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alhadad-xyz&theme=tokyonight&layout=compact" />
 </div>
 
 ---
